@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Anna</Name>
+  <Surname>Sagres</Surname>
+  <Date>2001-01-01T00:00:00</Date>
+  <Year>2001</Year>
+  <Educate>Master</Educate>
+  <Group>301</Group>
+  <Person>
+    <Name>Anna</Name>
+    <Surname>Sagres</Surname>
+    <Date>2001-01-01T00:00:00</Date>
+    <Year>2001</Year>
+  </Person>
+</Student>
